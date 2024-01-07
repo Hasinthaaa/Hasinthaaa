@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hasintha Nirmanie ...</h1>
-<br>
+
+
+
 ---
 
 <h3 align="center">A perpetual enthusiast of knowledge and an eternal learner, navigating the ever-evolving landscape of new features with the fervor of a lifelong student until the very end.</h3>
