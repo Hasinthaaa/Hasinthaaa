@@ -1,10 +1,15 @@
 <h1 align="center">Hi 👋, I'm Hasintha Nirmanie ...</h1>
+
+---
+
 <h3 align="center">A perpetual enthusiast of knowledge and an eternal learner, navigating the ever-evolving landscape of new features with the fervor of a lifelong student until the very end.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasinthaaa&label=Profile%20views&color=0e75b6&style=flat" alt="hasinthaaa" /> </p>
 
 
 ---
+
+
 - 🔭 I’m undergraduate student in **University of Colombo School of Computing**
 
 - 🌱 I’m currently learning **Java, PHP, React**
