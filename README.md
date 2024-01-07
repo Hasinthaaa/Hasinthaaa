@@ -4,7 +4,7 @@
 
 ---
 
-<h3 align="center">A perpetual enthusiast of knowledge and an eternal learner, navigating the ever-evolving landscape of new features with the fervor of a lifelong student until the very end.</h3>
+<h3 align="center">A lifelong learner embracing new features with passion until the end.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hasinthaaa&label=Profile%20views&color=0e75b6&style=flat" alt="hasinthaaa" /> </p>
 
