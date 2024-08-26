@@ -14,7 +14,7 @@
 
 - 🔭 I’m undergraduate student in **University of Colombo School of Computing**
 
-- 🌱 I’m currently learning **Java, PHP, React**
+- 🌱 I’m currently learning **Java, PHP, Ballerina , React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Hasinthaaa?tab=repositories](https://github.com/Hasinthaaa?tab=repositories)
 
